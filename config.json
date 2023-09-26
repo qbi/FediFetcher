@@ -1,4 +1,5 @@
 {
+  "access-token": "secret",
   "server": "freie-re.de",
   "home-timeline-length": 200,
   "max-followings": 80,
